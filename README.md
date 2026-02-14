@@ -1,30 +1,45 @@
-# 🚀 Startup eCommerce
+# 🚀 Startup eCommerce  
+### ✨ Modern • Minimal • Responsive
 
-Minimal, modern and responsive eCommerce website built with HTML, CSS & Bootstrap.
+<p align="center">
+  <a href="https://startup-ecommerce.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Website-000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+<p align="center">
+  <b>A premium startup-style eCommerce landing page built for modern brands.</b><br>
+  Clean UI. Smooth layout. Professional design.
+</p>
 
 ---
 
-## 🌐 Live Website
+## 🌐 Live Demo
 
-🔗 https://startup-ecommerce.vercel.app
+🔗 **Visit Now:**  
+👉 https://startup-ecommerce.vercel.app
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- Responsive Design  
-- Modern UI  
-- Product Grid Layout  
-- Clean Navigation  
-- Contact Section  
+- ⚡ Fully Responsive Layout  
+- 🎨 Modern & Clean UI  
+- 🛍️ Product Grid Showcase  
+- 📱 Mobile-Optimized Design  
+- 📩 Contact Section  
+- 🚀 Fast & Lightweight  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-- Bootstrap Icons  
-
+| Technology | Purpose |
+|------------|----------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Bootstrap 5 | Layout & Responsiveness |
+| Bootstrap Icons | UI Icons |
 
