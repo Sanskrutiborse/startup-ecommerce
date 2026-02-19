@@ -583,6 +583,23 @@ body {
     border-radius: 2px;
 }
 
+/* ===========================
+   MOBILE FIX ONLY
+=========================== */
+
+@media (max-width: 576px) {
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+
+    .social-icons a {
+        margin-right: 8px;
+    }
+}
+
 /* ============================================
    PRODUCTS SECTION TITLE
 ============================================ */
